@@ -1,7 +1,7 @@
-# Keep Awake Teams Status
+# Keep Awake Status
 ## Description
 
-**Keep Awake Teams Status** is a fun VBScript script that helps you keep your Microsoft Teams status awake by simulating key presses at regular intervals. It prevents your system from going into sleep mode, ensuring that your Teams status remains active and available.
+**Keep Awake Status** is a fun VBScript script that helps you keep your Microsoft Teams and Skype status awake by simulating key presses at regular intervals. It prevents your system from going into sleep mode, ensuring that your Teams/Skype status remains active and available.
 
 ## Features
 
@@ -12,7 +12,7 @@
 
 ## How to Use
 
-1. Clone this repository to your local machine using `git clone https://github.com/xd20111/keep-awake-teams.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/xd20111/keep-awake.git`.
 
 2. Run the script by double-clicking the `KeepAwake.vbs` file.
 
